@@ -1,4 +1,5 @@
 tensorflow
+streamlit-navigation-bar
 pandas
 numpy
 scikit-learn
